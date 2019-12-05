@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "harwoodspike <jharwood@harwoodspike.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.0",
+    "@actions/github": "^1.1.0"
+  }
+}
